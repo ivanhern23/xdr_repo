@@ -5,4 +5,11 @@
       "title": "Hello JSON!"
     }
   ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Cristiano Ronaldo"
+      "job title": "Soccer Player"
+    }
+  ]
 }
