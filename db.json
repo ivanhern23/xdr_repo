@@ -1,1 +1,8 @@
-Test
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello JSON!"
+    }
+  ]
+}
